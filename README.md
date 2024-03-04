@@ -9,7 +9,7 @@
 
 
 ## MATLAB Installation
-1. Copy this link \
+1. Copy this link
    ```
    https://88-99-61-21.top/Getintopc.com/MathWorks_MATLAB_R2023a_v9.14.0.2206163.rar?md5=gCVVBPuIQxyjKC77lPRW0g&expires=1712147106
    ```
