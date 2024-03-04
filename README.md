@@ -6,3 +6,9 @@
 3. Open the `Install.exe` file to install
 4. Use the `NI License Activator 1.2.exe` and activate the Base Edition
 5. Enjoy :>
+
+
+## MATLAB Installation
+1. Download the file from this [link](https://88-99-61-21.top/Getintopc.com/MathWorks_MATLAB_R2023a_v9.14.0.2206163.rar?md5=gCVVBPuIQxyjKC77lPRW0g&expires=1712147106)
+2. Extract the files
+3. Follow the instructions in `Readme.txt` in the `Crack` folder
