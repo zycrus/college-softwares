@@ -17,6 +17,6 @@
 4. Extract the files
 5. Follow the instructions in `Readme.txt` in the `Crack` folder
 
-> If the link does not work, go to this [site](https://getintopc.com/softwares/maths/matlab-r2023a-free-download-9038393/) and click this button to download the file
+> If the link does not work, go to this [site]([https://getintopc.com/softwares/maths/matlab-r2023a-free-download-9038393/](https://getintopc.com/softwares/maths/matlab-r2024a-free-download/)) and click this button to download the file
 > 
 ![GetIntoPc](btn.png)
